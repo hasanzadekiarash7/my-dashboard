@@ -11,6 +11,22 @@
   },
   "dependencies": {
     "nuxt": "^3.12.4",
+    "nuxt-auth-utils": "^0.3.3",
+    "nuxt-viewport": "^2.1.5",
+    "three": "^0.167.1",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "@dargmuesli/nuxt-cookie-control": "^8.4.7",
+    "@formkit/auto-animate": "^0.8.2",
+    "@nuxt/fonts": "^0.7.2",
+    "@nuxtjs/i18n": "^8.3.3",
+    "@nuxtjs/seo": "^2.0.0-rc.18",
+    "@pinia/nuxt": "^0.5.3",
+    "@tresjs/nuxt": "^3.0.2",
+    "magic-regexp": "^0.8.0",
+    "nuxt-aos": "^1.2.5",
+    "nuxt-file-storage": "^0.2.7",
+    "nuxt-vue3-google-signin": "^0.0.11"
   }
 }
